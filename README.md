@@ -4,7 +4,7 @@
  
  Содержание:
  <ul>
- <li>MindMap Wildberries</li>
+ <li>MindMap сайта Wildberries.ru</li>
  <li>Тест-кейс на размещение заказа на сайте Profi.ru</li>
  <li>Чек лист на поисковую строку сайта WB</li>
  <li>Чек лист на проверку метода PATCH в Postman</li>
