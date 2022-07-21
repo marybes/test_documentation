@@ -1,11 +1,6 @@
 <html>
 
  <h1>Тестовая документация<h1>
- h1 {
-  color: blue;
-  background-color: yellow;
-  border: 1px solid black;
-}
  
  Содержание:
  <ul>
